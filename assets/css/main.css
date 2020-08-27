@@ -2519,6 +2519,10 @@ input, select, textarea {
 			font-family: 'Font Awesome 5 Brands';
 		}
 
+		.icon.regular:before {
+			font-family: 'Font Awesome\ 5 Free'
+		}
+
 		.icon.major {
 			width: 2.5em;
 			height: 2.5em;
